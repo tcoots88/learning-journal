@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/tcoots88/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Growth mindset is to never settle with how things are.  It is to know that there is always some aspect of yourself that you can improve and
+to constantly work and _grind_ at enhancing yourself.  That *grind* is important.  Everything you do is not going to seem that important,
+but the little things and small tasks is where you demonstrate the *grind* mindset and your work ethic shines.   One must always be 
+reflecting and analyzing how things could have been differently.  Growth Mindset is looking at the challenges in life as opportunities for
+improvement and to take positive criticism openly, after all, if someone is giving positive criticism to you, then they only want you to 
+improve.  Some things to keep in mind:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Reflection
+-*Grind*, always be pushing yourself
+-Welcome criticism
 
-### Jekyll Themes
+```
+## A Little About Myself
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tcoots88/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ My name is Travis Coots and I am originally from California. I am married and have one daughter who is almost 4 years old.  I am transitioning 
+ out of the Air Force where I was a Cryptologic Pashto Language Analyst.  I was stationed in Augusta, GA so moving to Washington was a bit of a transition.  I look forward to starting this new chapter with Amazon.  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please check out [My Profile](https://github.com/tcoots88).
