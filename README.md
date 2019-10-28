@@ -1,18 +1,18 @@
 ### Growth Mindset
 
-```
+
 Growth mindset is to never settle with how things are.  It is to know that there is always some aspect of yourself that you can improve and
-to constantly work and _grind_ at enhancing yourself.  That *grind* is important.  Everything you do is not going to seem that important,
+to constantly work and *grind* at enhancing yourself.  That *grind* is important.  Everything you do is not going to seem that important,
 but the little things and small tasks is where you demonstrate the *grind* mindset and your work ethic shines.   One must always be 
 reflecting and analyzing how things could have been differently.  Growth Mindset is looking at the challenges in life as opportunities for
 improvement and to take positive criticism openly, after all, if someone is giving positive criticism to you, then they only want you to 
 improve.  Some things to keep in mind:
 
--Reflection
--*Grind*, always be pushing yourself
--Welcome criticism
+* Reflection
+* *Grind*, always be pushing yourself
+* Welcome criticism
 
-```
+
 ## A Little About Myself
 
  My name is Travis Coots and I am originally from California. I am married and have one daughter who is almost 4 years old.  I am transitioning 
