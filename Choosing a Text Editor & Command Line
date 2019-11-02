@@ -17,6 +17,13 @@ Some popular text editors can be found
 >A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and 
 >feedback will be given to you similarly as text.
 
+# What's a File?
+
+>Everything from a text file, a directory, or even a keyboard or monitor is a file.  When working with Linux, there are some important concepts to keep in mind:
+1. Everything is a file under Linux, even directories
+2. Linux is an extensionless system, files can have any extension they like or none at all 
+3. Linux is Case sensitive, look out for tiny, minute mistakes
+
 Cheat Sheet
 
 - **absolute** - Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
@@ -27,6 +34,10 @@ Cheat Sheet
 - **pwd** - **Print Working Directory** -  It tells you what your current or present working directory is.
 - **ls** - **list** - List the contents of a directory.
 - **cd** - **Change Directory** - move to another directory.
+- **file** - obtain information about what type of file a file or directory is.
+- **ls -a** - List the contents of a directory, including hidden files.
+
+
 
 
 Please check out [My Profile](https://github.com/tcoots88).
