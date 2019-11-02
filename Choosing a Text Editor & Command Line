@@ -1,9 +1,8 @@
 # Choosing a Text Editor
 
-## What is a Text Editor
 A text editor is:
->A piece of software that you download and install on your computer, or you access online through a web
->browser, that allows you to write and manage text, expecially the text that you write to build a web site
+> A piece of software that you download and install on your computer, or you access online through a web
+browser, that allows you to write and manage text, expecially the text that you write to build a web site
 
 Additionally, there are a number of different text editors that are available.  Some basic text editors are pre-installed on most operating
 systems, but are bare bones and lack many of the add-ons available in downloadble alternatives. The different types of text editors are 
@@ -12,9 +11,9 @@ important because some can help with things such as code completion and syntax h
 Some popular text editors can be found
 [here](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
-#Using the Command Line 
+# Using the Command Line 
 
-##Command Line:
+## Command Line:
 >A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and 
 >feedback will be given to you similarly as text.
 
