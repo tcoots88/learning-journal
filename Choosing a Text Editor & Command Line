@@ -17,5 +17,16 @@ Some popular text editors can be found
 >A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and 
 >feedback will be given to you similarly as text.
 
+Cheat Sheet
+
+- **absolute** - Absolute paths specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
+- **relative** - Relative paths specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+- **~**  - **Tilde** - This is a shortcut for your home directory. 
+- **.**  - **Dot** - This is a reference to your current directory.
+- **..**  - **DotDot** - This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. 
+- **pwd** - **Print Working Directory** -  It tells you what your current or present working directory is.
+- **ls** - **list** - List the contents of a directory.
+- **cd** - **Change Directory** - move to another directory.
+
 
 Please check out [My Profile](https://github.com/tcoots88).
