@@ -21,5 +21,5 @@ improve.  Some things to keep in mind:
 Please check out [My Profile](https://github.com/tcoots88).
 
 ### Table of Contents
-1. [Markdown] (Markdown.md)
+1. [Markdown](Markdown.md)
 2. [Choosing a Text Editor & Command Line](Choosing a Text Editor & Command Line.md)
