@@ -20,4 +20,6 @@ improve.  Some things to keep in mind:
 
 Please check out [My Profile](https://github.com/tcoots88).
 
-[Command Line](https://github.com/tcoots88/learning-journal/blob/master/Choosing%20a%20Text%20Editor%20%26%20Command%20Line)
+### Table of Contents
+1. [Markdown] (Markdown.md)
+2. [Choosing a Text Editor & Command Line](Choosing a Text Editor & Command Line.md)
