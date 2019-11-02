@@ -19,3 +19,5 @@ improve.  Some things to keep in mind:
  out of the Air Force where I was a Cryptologic Pashto Language Analyst.  I was stationed in Augusta, GA so moving to Washington was a bit of a transition.  I look forward to starting this new chapter with Amazon.  
 
 Please check out [My Profile](https://github.com/tcoots88).
+
+[Command Line](https://github.com/tcoots88/learning-journal/blob/master/Choosing%20a%20Text%20Editor%20%26%20Command%20Line)
