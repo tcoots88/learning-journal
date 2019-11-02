@@ -23,3 +23,4 @@ Please check out [My Profile](https://github.com/tcoots88).
 ### Table of Contents
 1. [Markdown](Markdown.md)
 2. [Choosing a Text Editor & Command Line](Choosing a Text Editor & Command Line.md)
+3. [Revisions and the Cloud](Revisions and the Cloud.md)
