@@ -25,8 +25,9 @@ Please check out [My Profile](https://github.com/tcoots88).
 2. [Choosing a Text Editor & Command Line](Choosing a Text Editor & Command Line.md)
 3. [Revisions and the Cloud](Revisions and the Cloud.md)
 4. [Structure Web pages with HTML](Structure web pages with HTML.md)
-5.
+5. [Design Web Paged with CSS](Design web pages with CSS.md)
 6.
 7.
 8.
 9.
+
