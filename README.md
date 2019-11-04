@@ -26,7 +26,7 @@ Please check out [My Profile](https://github.com/tcoots88).
 3. [Revisions and the Cloud](Revisions and the Cloud.md)
 4. [Structure Web pages with HTML](Structure web pages with HTML.md)
 5. [Design Web Paged with CSS](Design web pages with CSS.md)
-6.
+6. [Dynamic web pages with JavaScript](Dynamic web pages with JavaScript.md)
 7.
 8.
 9.
