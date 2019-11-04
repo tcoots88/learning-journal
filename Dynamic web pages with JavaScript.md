@@ -1,4 +1,4 @@
-#Dynamic web pages with JavaScript
+# Dynamic web pages with JavaScript
 ## HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
 ### Before diving into the JavaScript language, you need to know how it will  fit together with the HTML and CSS in your web pages.
 - Each of these languages fit together in order to complete one finished product, the web page. 
